@@ -1,3 +1,31 @@
-header{background-color:#D7D6FD;
+*margin 
+
+
+
+
+
+.cabeçalho{background-color:#D7D6FD;
+    display: flex;
+justify-content: baseline;
+}
+.Logo{
+ width: 10%;
+}
+
+.lista{
+
 
 }
+
+.lista-item{
+display: inline-block;
+margin: 0 16px;
+
+}
+
+
+
+
+
+
+
