@@ -1,25 +1,30 @@
-*margin 
+*{
+    margin: 0;
+    padding: 0;
+}
 
 
 
 
 
 .cabeçalho{background-color:#D7D6FD;
-    display: flex;
+ display: flex;
 justify-content: baseline;
+align-items: center;
+padding: 24px 0;
 }
 .Logo{
- width: 10%;
+ width: 15%;
 }
 
 .lista{
-
+ font-size: 30px;
 
 }
 
 .lista-item{
-display: inline-block;
-margin: 0 16px;
+ display: inline-block;
+margin: 0 50px;
 
 }
 
