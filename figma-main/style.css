@@ -1,0 +1,14 @@
+.imgcountry{
+    width: 80%;
+    height: 70%;
+}
+
+.texas{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+
+
+
+
